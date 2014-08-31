@@ -1,0 +1,12 @@
+{
+    "name": "bill/beckettmufson",
+    "require": {
+        "symfony/css-selector": "*"
+    },
+    "authors": [
+        {
+            "name": "William Stein",
+            "email": "williamstein92@gmail.com"
+        }
+    ]
+}
